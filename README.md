@@ -1,10 +1,25 @@
-Cophela Platform- Plataforma Moodle Personalizada
-Descripción
-En este proyecto he trabajado para crear una implementación personalizada de la plataforma Moodle, utilizada para crear una experiencia de aprendizaje en línea enriquecedora y accesible para un curso de farmacia financiado por la Unión europea y la universidad de Granada. He integrado Google Analytics para obtener información detallada sobre el uso y la interacción del usuario con la plataforma. Además, he utilizado Drupal para gestionar el contenido y la estructura del sitio web, lo que permite una mejor administración y personalización. Este proyecto refleja mi habilidad en la integración y personalización de tecnologías de vanguardia para mejorar la educación en línea.
+🎓 Cophela Platform | Custom EdTech Ecosystem
 
-Tecnologías Utilizadas
-Moodle: Como sistema de gestión de aprendizaje.
-Google Analytics: Para el análisis y seguimiento del tráfico web.
-Drupal: Para la gestión de contenido y estructura del sitio.
+Description Engineered a specialized e-learning ecosystem for an EU-funded pharmaceutical course in collaboration with the University of Granada. This project involved the architectural customization of Moodle to deliver an accessible and scalable learning experience.
 
-https://www.cophela.eu/campus/login/index.php
+I implemented a dual-stack solution using Drupal for robust content management and structural flexibility, seamlessly integrated with Moodle for LMS functionality. Additionally, I deployed advanced Google Analytics tracking to capture granular user interaction data, enabling data-driven decisions to optimize the educational path.
+
+Key Technical Achievements:
+
+System Integration: Successfully bridged Moodle LMS with Drupal CMS for enhanced administrative control.
+
+Data Analytics: Implemented tracking pipelines to monitor user engagement and traffic patterns.
+
+Scalability: Designed the platform to handle high-volume access for an international institutional program.
+
+🛠️ Tech Stack
+
+LMS: Moodle (Custom Implementation)
+
+CMS: Drupal (Content Architecture)
+
+Analytics: Google Analytics (Data Tracking)
+
+Context: EU & University of Granada Funded Project
+
+🔗 Live Project: Cophela Campus Login
